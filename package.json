@@ -1,0 +1,10 @@
+{
+  "name": "camp-to-go",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "flutter run -d web",
+    "build": "flutter build web"
+  }
+}
